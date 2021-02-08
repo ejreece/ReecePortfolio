@@ -1,5 +1,5 @@
 # ReecePortfolio
-Data visualizations created from coursework at Carnegie Mellon University's Heinz College
+Data visualizations created from coursework at Carnegie Mellon University's Heinz College  
 [Link to published website](https://ejreece.github.io/ReecePortfolio/)
 
 ## About me
@@ -13,6 +13,6 @@ Prior to coming to Heinz, I earned a BA in political science from UC Berkeley. U
 
 ## What I hope to learn
 
-I took a leave last fall to 1) take a break from the stress that a lot of students were experiencing from switching to online learning and; 2) accept a job offer from the State of Colorado. I served in the Office of Governor Jared Polis as Deputy Coordinator for COVID-19 Response & Recovery from June through December. The job was incredibly stressful, but it helped me prioritize what I want to learn in my remaining two semesters at Heinz. While the position did not require much technical or analytics work on my part, I was tasked with communicating COVID-19 data to a wide range of stakeholders. In my experience at Heinz, communication and management are often brushed off as less valuable/important skills relative to understanding certain program languages or modeling techniques. My role at the State of Colorado showed me that those "hard" skills are useless if you cannot clearly communicate that information to a wide variety of audiences. I'm hoping this course, Telling Stories with Data, will help me become a better data communicator and help me be better explain *why* communication is such an important skill when it comes to data analysis and public policy.
+I took a leave last fall to 1) take a break from the stress that a lot of students were experiencing from switching to online learning and; 2) accept a job offer from the State of Colorado. I served in the Office of Governor Jared Polis as Deputy Coordinator for COVID-19 Response & Recovery from June through December. The job was incredibly stressful, but it helped me prioritize what I want to learn in my remaining two semesters at Heinz. While the position did not require much technical or analytics work on my part, I was tasked with communicating COVID-19 data to a wide range of stakeholders. In my experience at Heinz, communication and management are often brushed off as less valuable/important skills relative to understanding certain programming languages or modeling techniques. My role at the State of Colorado showed me that those "hard" skills are useless if you cannot clearly communicate information to a wide variety of audiences. I'm hoping this course, Telling Stories with Data, will help me become a better data communicator and help me be better explain *why* communication is such an important skill when it comes to data analysis and public policy.
 
 ## Portfolio
