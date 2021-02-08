@@ -6,7 +6,9 @@ Hello there! My name is Emily Reece, and my pronouns are she/her/hers. I am a se
 
 <iframe src="https://giphy.com/embed/HGe4zsOVo7Jvy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sesame-street-cookies-cookie-monster-HGe4zsOVo7Jvy">via GIPHY</a></p>
 
+[Link to published website](https://ejreece.github.io/ReecePortfolio/)
 
+![California Redwoods](Redwoods.jpg)
 
 Prior to coming to Heinz, I earned a BA in political science from UC Berkeley. Upon graduating in 2016, I began work at a policy advocacy nonprofit based out of Oakland, CA called [Children Now](https://www.childrennow.org/), where I started as an Executive Assistant and eventually became the database (Salesforce) administrator for [The Children's Movement](https://www.childrennow.org/thechildrensmovement/) team. I had always been interested in pursuing a public policy degree. Joining The Children's Movement team expanded by interests into the world of data analytics. My role as database administrator opened my eyes to the disparities between how the private and public sectors leverage data and technology in decision-making. I was blown away by the sophisticated ways that even small companies use tools like Salesforce and Pardot to increase their bottom line, while many government agencies are still dependent on paper forms for gathering information about the people they serve. My interest in public policy and my desire to shrink the data/tech gap between the private and public sectors is what eventually led me to the MSPPM-DA program at Heinz. Once I finish my program, I plan to work with Deloitte in their Government & Public Sector practice, based out of Sacramento, CA. 
 
