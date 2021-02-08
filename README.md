@@ -1,14 +1,13 @@
 # ReecePortfolio
 Data visualizations created from coursework at Carnegie Mellon University's Heinz College
+[Link to published website](https://ejreece.github.io/ReecePortfolio/)
 
 ## About me
 Hello there! My name is Emily Reece, and my pronouns are she/her/hers. I am a second year (ish) student in the Heinz MS Public Policy Management Data Analytics program. I say "ish" because I took a leave from school last fall, so I will graduate in December of this year as opposed to May. I am from [Murrieta, California](https://www.google.com/maps/place/Murrieta,+CA/@33.5775832,-117.2684816,12z/data=!3m1!4b1!4m5!3m4!1s0x80db7d3fc502f2f1:0x12d42ef99dd4ed8f!8m2!3d33.5539143!4d-117.2139232). I'm the middle child of three sisters, I have a cat named Luna, and I enjoy playing soccer and running in my freetime. And baking ALL THE COOKIES. 
 
 <iframe src="https://giphy.com/embed/HGe4zsOVo7Jvy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sesame-street-cookies-cookie-monster-HGe4zsOVo7Jvy">via GIPHY</a></p>
 
-[Link to published website](https://ejreece.github.io/ReecePortfolio/)
-
-![California Redwoods](Redwoods.jpg)
+![California Redwoods](Luna.jpg)
 
 Prior to coming to Heinz, I earned a BA in political science from UC Berkeley. Upon graduating in 2016, I began work at a policy advocacy nonprofit based out of Oakland, CA called [Children Now](https://www.childrennow.org/), where I started as an Executive Assistant and eventually became the database (Salesforce) administrator for [The Children's Movement](https://www.childrennow.org/thechildrensmovement/) team. I had always been interested in pursuing a public policy degree. Joining The Children's Movement team expanded by interests into the world of data analytics. My role as database administrator opened my eyes to the disparities between how the private and public sectors leverage data and technology in decision-making. I was blown away by the sophisticated ways that even small companies use tools like Salesforce and Pardot to increase their bottom line, while many government agencies are still dependent on paper forms for gathering information about the people they serve. My interest in public policy and my desire to shrink the data/tech gap between the private and public sectors is what eventually led me to the MSPPM-DA program at Heinz. Once I finish my program, I plan to work with Deloitte in their Government & Public Sector practice, based out of Sacramento, CA. 
 
