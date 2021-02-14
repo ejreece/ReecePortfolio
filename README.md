@@ -17,4 +17,4 @@ I took a leave last fall to 1) take a break from the stress that a lot of studen
 
 ## Portfolio
 
-Coming soon!
+# - [Homework Assignment #2: Visualizing Government Debt](/dataviz2.md)
