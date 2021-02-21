@@ -2,7 +2,7 @@
 [Return to main portfolio page](https://ejreece.github.io/ReecePortfolio/)
 
 ## Original data visualization, selected for critique
-![DataViz](VizAssignment3and4.jpg)
+![DataViz](VizAssignment3and4.png)
 
 I chose to critique this visualization from the [/r/dataisbeautiful subreddit](https://www.reddit.com/r/dataisbeautiful/). The visualization is titled “U.S. Weekly Number of Deaths; All Causes (CDC)” and can be found [here](https://preview.redd.it/ncd02w6xgji61.png?width=1818&format=png&auto=webp&s=f9f2555ccd5435356b4661ba74f343bb08c420f4). I chose this visualization because it has so much room for improvement when it comes to aesthetics, and because it's relevant to what's going on in the world today (ie, COVID-19).
 
