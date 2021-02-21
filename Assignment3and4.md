@@ -1,4 +1,4 @@
-# Homework #3 & #4 Critique by Design
+# Homework #3 & #4: Critique by Design
 Due February 21
 [Return to main portfolio page](https://ejreece.github.io/ReecePortfolio/)
 
