@@ -53,4 +53,4 @@ I adjusted my redesign based on user feedback, available Tableau features, and m
 - Clearly link to the data sources, and specify what source contains data from which years
 - I ultimately decided to keep the x-axis as weeks instead of quarters, because not all audience members are familiar with the division of years into quarters. I chose to use increments of 4 with the x-axis tick marks, since each month is typically *around* 4 weeks long
 
-<iframe src="ttps://public.tableau.com/profile/emily.reece#!/vizhome/Assignment3and4/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://public.tableau.com/profile/emily.reece#!/vizhome/Assignment3and4/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
