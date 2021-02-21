@@ -20,27 +20,27 @@ I made one major change related to aesthetics - reducing the text and grid lines
 
 I then asked for feedback from two users and received the following responses:
 
-1. Can you tell me what you think this is?
+**1. Can you tell me what you think this is?**
     - A chart that shows how many people died in 2020
     - A chart that compares deaths in the U.S. across multiple years
 
-2. Can you describe to me what this is telling you?
+**2. Can you describe to me what this is telling you?**
     - That a lot of people died whenever that red peak occurred, and more people died in 2020 than in previous years
     - That COVID-19 has killed a lot of people compared to previous years
 
-4. Is there anything you find surprising or confusing?
+**4. Is there anything you find surprising or confusing?**
     - Not sure what "Q1-4" means on the x-axis (similar answers for both)
 
-5. Who do you think is the intended audience for this?
+**5. Who do you think is the intended audience for this?**
     - Researchers looking at the impact of COVID-19 on mortality
     - People skeptical of how dangerous the COVID-19 pandemic really is
 
-6. Is there anything you would change or do differently? (I asked a follow up question: would you represent the information in another way?)
+**6. Is there anything you would change or do differently?** (I asked a follow up question: would you represent the information in another way?)
     - Change the Q's on the x-axis so their meaning is more clear
-    - "No not really. I'm a teacher and we're supposed to understand sh** like this" - Emily's Mom, 5th grade teacher
+    - "No not really. I'm a teacher and we're supposed to understand sh** like this." - My mom, 5th grade teacher
 
 My takeaways from feedback: I obviously need to clarify the x-axis labels by either changing the groupings or renaming the labels. I also realized the users assumed the change in deaths in 2020 is due to COVID-19, even though the chart does not mention COVID-19 whatsoever. While it's likely that COVID-19 caused the spike in deaths, that is not made explicit in the dataset behind this visualization. For the sake of completeness and truthfulness, I might add a subtitle or caption that makes that more clear. 
 
-After gathering and processing feedback on the wireframe, I used Tableau to redesign the original visualization, making it more pleasing to the eye and better at communicating the main point of the image. 
+After gathering and processing feedback on the wireframe, I used Tableau to redesign the original visualization, making it more pleasing to the eye and better at communicating the chart creator's main point: the U.S. saw more deaths in 2020 than in previous years. 
 
 ## My final, redesigned data visualization
