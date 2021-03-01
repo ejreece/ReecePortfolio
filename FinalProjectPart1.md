@@ -27,4 +27,4 @@ After illustrating the link between child care and the economy, I want to highli
 I collected all of the aforementioned data in [this Google sheet](https://docs.google.com/spreadsheets/d/1pzjf7OrJH5477HYisvjivKc-lohD58QGjXnWbxZHZu4/edit#gid=460906644), which also contains all of the URLs I linked to above as well as a summary of each data point. 
 
 ## Method & medium
-Shorthand, Tableau, Datawrapper, Flourish
+I plan to use Shorthand to incorporate the various data visualizations, diagrams and text I outlined in my initial sketches. I'll rely mostly on Tableau to create my data visualizations, although I might lean more on Flourish and Data Wrapper for the simple bar charts and line graphs. Tableau will be useful for the map of the U.S. depicting child care cost by state. I'll likely need to use powerpoint or Google drawings for more conceptual visualizations, such as the illustration showing the key role that child care plays in a state/local economy. 
