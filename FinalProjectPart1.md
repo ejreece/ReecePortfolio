@@ -14,8 +14,13 @@ With this project, I hope to illuminate the important role that child care acces
  - Call to action: contact Governor Newsom and/or your local state representatives.
 
 ## Initial sketches
-
-
+![sketch1](Project Sketches.png)
+![sketch2](Project Sketches (1).png)
+![sketch3](Project Sketches (2).png)
+![sketch4](Project Sketches (3).png)
+![sketch5](Project Sketches (4).png)
+![sketch6](Project Sketches (5).png)
+![sketch7](Project Sketches (6).png)
 
 ## The Data
 I will rely on several different datasets for my final project. In searching for sources, I worked backwards from the "so what?" to get to the "what?". For example, going into this project I knew it would be important to explain why everyone -- not just parents or child care employees -- should care about child care access. The "so what?" in this case is that child care access impacts our entire economy. I then brainstormed what data (the "what?") would be most helpful in illustrating the impact that child care plays in California's economy. I settled on a few quantitative and qualitative data points/sources for this part of the story. 
