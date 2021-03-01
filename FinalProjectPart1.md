@@ -6,8 +6,10 @@
 Access to quality, affordable child care -- a necessity for most working families and a key ingredient for a viable workforce -- has become a luxury in California. Many families face both cost and accessibility challenges when trying to find quality child care. The Golden State needs to invest in strengthening its current fragile child care system. Investment efforts should focus on building capacity, over time, to increase the number of infants and toddlers that receive state-funded child care services.
 
 ### Project structure
+With this project, I hope to illuminate the important role that child care access plays in our (specifically Californians') society, how the state's child care system is currently failing, and what can be done by both policymakers and those viewing my project in order to improve that system. I plan to achieve those goals by including the following major elements in my story: 
+
  - Why we should *all* care about child care access.
- - California's current system is not working: a look at state-funded child care services.
+ - California's current system is not working: the cost & accessibility challenges of state-funded child care services.
  - What the state can do to improve the system.
  - Call to action: contact Governor Newsom and/or your local state representatives.
 
