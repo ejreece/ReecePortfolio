@@ -3,12 +3,18 @@ Due March 10
 [Return to main portfolio page](https://ejreece.github.io/ReecePortfolio/)
 
 ## Wireframe/Storyboard
+I used Google Slides and Shorthand to create the wireframe of my project. I used Google Slides to visually represent the flow of the story I'd like to tell. As you can see in the image below, I included brief descriptions of the major elements of the story, placed next to the key data points or visualizations that I will use to illustrate that part of the story. I created this type of wireframe first because I wanted to explicitly describe the aspects of the story that might not be as explicit in the final version of my project (i.e., I might rely on images or visualizations to *imply* certain story element in the final version). 
 
+![GoogleSlides](GoogleSlidesWireframe.png)
+
+After outlining the flow of the story in Google Slides, I created a more detailed wireframe in Shorthand (Click [here](https://preview.shorthand.com/HK5HW5KesAuuKXF7) to view. This is the version I shared with users during the feedback process. While I only showed users the Shorthand wireframe, I crosschecked their feedback with my Google Slides wireframe to make sure I was communicating the same core story elements in both versions.    
 
 ## User Research & Interviews
-**Target Audience:** Californians unfamiliar with the economic and social impacts of poor child care access. 
-**Approach to identifying representative individuals**: Asking how familiar they are with the child care system, especially state-subsidized child care. I will also ask how familiar they are with the role that child care plays withint the Californian economy. 
-
+- **Target Audience:** Californians unfamiliar with the economic and social impacts of poor child care access. 
+- **Approach to identifying representative individuals**: Asking how familiar they are with the child care system, especially state-subsidized child care. I will also ask how familiar they are with the role that child care plays withint the Californian economy.
+- General description user 1: 
+- General description user 2:
+- General description user 3:
 
 | **Questions**      | **Findings** | **Plan on Changing**   |
 | Question number 1      | Nonumy deleniti atomorum ea est. Ne pri omittam aliquando, odio prompta eam ne. Facer indoctum maluisset eu pro, cum assum falli graece te. Ut his purto senserit, quo cu aperiam invidunt consulatu, brute oratio id eos. Has ei unum oblique, prima ponderum temporibus ut sed, eam dolorem alienum mentitum te. Nec ex oblique dolores indoctum, vel ea noster complectitur. Cu eum vivendum conceptam, mel te percipit imperdiet scribentur. Eum stet hinc ullum ea.       | Nonumy deleniti atomorum ea est. Ne pri omittam aliquando, odio prompta eam ne. Facer indoctum maluisset eu pro, cum assum falli graece te. Ut his purto senserit, quo cu aperiam invidunt consulatu, brute oratio id eos. Has ei unum oblique, prima ponderum temporibus ut sed, eam dolorem alienum mentitum te. Nec ex oblique dolores indoctum, vel ea noster complectitur. Cu eum vivendum conceptam, mel te percipit imperdiet scribentur. Eum stet hinc ullum ea.   |
