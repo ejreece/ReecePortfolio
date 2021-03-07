@@ -20,3 +20,4 @@ I took a leave last fall to 1) take a break from the stress that a lot of studen
 - [Homework Assignment #2: Visualizing Government Debt](https://ejreece.github.io/ReecePortfolio/dataviz2.html)
 - [Homework Assignment #3 & 4: Critique by Design](https://ejreece.github.io/ReecePortfolio/Assignment3and4.html)
 - [Final Project Part I](https://ejreece.github.io/ReecePortfolio/FinalProjectPart1.html)
+- [Final Project Part II](https://ejreece.github.io/ReecePortfolio/FinalProjectPart2.html)
