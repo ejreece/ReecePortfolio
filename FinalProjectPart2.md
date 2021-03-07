@@ -7,7 +7,7 @@ I used Google Slides and Shorthand to create the wireframe of my project. I used
 
 ![GoogleSlides](GoogleSlidesWireframe.png)
 
-After outlining the flow of the story in Google Slides, I created a more detailed wireframe in Shorthand (Click [here](https://preview.shorthand.com/HK5HW5KesAuuKXF7) to view. This is the version I shared with users during the feedback process. While I only showed users the Shorthand wireframe, I crosschecked their feedback with my Google Slides wireframe to make sure I was communicating the same core story elements in both versions.    
+After outlining the flow of the story in Google Slides, I created a more detailed wireframe in Shorthand (Click [here](https://preview.shorthand.com/HK5HW5KesAuuKXF7) to view). This is the version I shared with users during the feedback process. While I only showed users the Shorthand wireframe, I crosschecked their feedback with my Google Slides wireframe to make sure I was communicating the same core story elements in both versions.    
 
 ## User Research & Interviews
 - **Target Audience:** Californians unfamiliar with the economic and social impacts of poor child care access. 
