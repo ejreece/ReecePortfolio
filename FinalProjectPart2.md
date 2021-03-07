@@ -1,9 +1,9 @@
-# Final Project Part 2
+# Final Project Part II
 Due March 10  
 [Return to main portfolio page](https://ejreece.github.io/ReecePortfolio/)
 
 ## Wireframe/Storyboard
-I used Google Slides and Shorthand to create the wireframe of my project. I used Google Slides to visually represent the flow of the story I'd like to tell. As you can see in the image below, I included brief descriptions of the major elements of the story, placed next to the key data points or visualizations that I will use to illustrate that part of the story. I created this type of wireframe first because I wanted to explicitly describe the aspects of the story that might not be as explicit in the final version of my project (i.e., I might rely on images or visualizations to *imply* certain story element in the final version). 
+I used Google Slides and Shorthand to create the wireframe of my project. I used Google Slides to visually represent the flow of the story I'd like to tell. As you can see in the image below, I included brief descriptions of the major elements of the story, placed next to the key data points or visualizations that I will use to illustrate that part of the story. I created this type of wireframe first because I wanted to explicitly describe the aspects of the story that might not be as explicit in the final version of my project (i.e., I might rely on images or visualizations to *imply* certain story elements in the final version). 
 
 ![GoogleSlides](GoogleSlidesWireframe.png)
 
