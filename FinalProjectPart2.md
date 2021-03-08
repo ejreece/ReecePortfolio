@@ -22,9 +22,12 @@ After outlining the flow of the story in Google Slides, I created a more detaile
 - General description user 3:
 
 ### Research Goals
-| **Goal**      | **Questions** |
-| **Intention** | Can you describe: 1) the specific problem to be addressed?; 2) the proposed solution for the problem?; 3) how you as a reader fits into the solution?       | 
-| **Comprehension** | Was the overall flow clear? Were the data visualizations & supporting claims easy to understand?      | **Emotional Appeal** | Did anything surprise you or cause a strong emotional response? Was the data compelling enough for you to move to action? Why or why not?      | **Improvement** | Is there any additional info you wanted to learn about this topic? What did you find confusing? What would you change?      |
+| Goal | Questions |
+|------|-----------|
+| **Intention** | Can you describe: 1) the specific problem to be addressed?; 2) the proposed solution for the problem?; 3) how you as a reader fits into the solution? | 
+| **Comprehension** | Was the overall flow clear? Were the data visualizations & supporting claims easy to understand? |
+| **Emotional Appeal** | Did anything surprise you or cause a strong emotional response? Was the data compelling enough for you to move to action? Why or why not? |
+| **Improvement** | Is there any additional info you wanted to learn about this topic? What did you find confusing? What would you change? |
 
 ### Interview Script & Findings
 | **Questions**      | **Findings** |
