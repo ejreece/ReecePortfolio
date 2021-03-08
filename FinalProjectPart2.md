@@ -22,6 +22,14 @@ After outlining the flow of the story in Google Slides, I created a more detaile
 - General description user 3:
 
 ### Research Goals
+|   |   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+
+
+
 | Goal | Questions |
 |------|-----------|
 | Intention | Can you describe: 1) the specific problem to be addressed?; 2) the proposed solution for the problem?; 3) how you as a reader fits into the solution? | 
