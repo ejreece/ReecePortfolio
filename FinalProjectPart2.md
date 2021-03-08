@@ -34,7 +34,7 @@ After outlining the flow of the story in Google Slides, I created a more detaile
 
 **Preface**: "I'm going to walk you through my wireframe for my final project for Telling Stories with Data. For context, the point of the project is to develop and present a narrative suitable for a subject audience for a selected topic that is clear, compelling and persuasive. The project should clearly construct and tell a story using various methods for explaining and presenting data."
 
-*Then I'll walk users through the wireframe. After the walk through, I'll ask the following questions...*
+*Then I'll walk users through the wireframe. After the walk-through, I'll ask the following questions...*
 
 | Questions | Findings  |
 |-----------|-----------|
