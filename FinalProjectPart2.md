@@ -14,14 +14,14 @@ After outlining the flow of the story in Google Slides, I created a more detaile
 ### Audience
 **Target audience:** Californians unfamiliar with the economic and social impacts of poor child care access.   
 
-**Approach to identifying representative individuals**: Asking how familiar they are with the child care system, especially state-subsidized child care. I will also ask how familiar they are with the role that child care plays within the Californian economy.  
+**Approach to identifying representative individuals**: Asking how familiar they are with the child care system, especially state-subsidized child care. I will also ask how familiar they are with the role that child care plays within the Californian economy. I'll ask these questions before scheduling interviews, meaning they are not included in the interview script outlined below.  
 
 **General user descriptions:**
 - General description user 1: 
 - General description user 2:
 - General description user 3:
 
-### Research Goals
+### Research Goals & Questions
 
 | Goals     | Questions |
 |-----------|-----------|
@@ -47,3 +47,5 @@ After outlining the flow of the story in Google Slides, I created a more detaile
 | What did you find confusing? What would you change? | Nonumy deleniti atomorum ea est. Ne pri omittam aliquando, odio prompta eam ne. Facer indoctum maluisset eu pro, cum assum falli graece te. Ut his purto senserit, quo cu aperiam invidunt consulatu, brute oratio id eos. Has ei unum oblique, prima ponderum temporibus ut sed, eam dolorem alienum mentitum te. Nec ex oblique dolores indoctum, vel ea noster complectitur. Cu eum vivendum conceptam, mel te percipit imperdiet scribentur. Eum stet hinc ullum ea. | 
 
 ### Plan on Changing
+Based on the findings outlined above, I plan to change the following elements for the final version of my project:
+
