@@ -15,9 +15,9 @@ I used Shorthand to build a draft of my final project. I decided to create a dra
 **Approach to identifying representative individuals**: Asking how familiar they are with the child care system, especially state-subsidized child care. I will also ask how familiar they are with the role that child care plays within the Californian economy. I'll ask these questions before scheduling interviews, meaning they are not included in the interview script outlined below.  
 
 **General user descriptions:**
-- Female law student in her mid 20's. Studying at a public university in the Bay Area. BA in Sociology. No kids and unfamiliar with the state's child care system. 
-- Female elementary school teacher in her mid 50's. Lives in Riverside County. Raised 3 children who are now adults, but is unfamiliar with the state's child care system as she relied on family care when her children were young.
-- Male tech employee in his mid 20's. Lives in San Francisco. BA in math and computer science. No kids and unfamiliar with the state's child care system.  
+- User 1: Female law student in her mid 20's. Studying at a public university in the Bay Area. BA in Sociology. No kids and unfamiliar with the state's child care system. 
+- User 2: Female elementary school teacher in her mid 50's. Lives in Riverside County. Raised 3 children who are now adults, but is unfamiliar with the state's child care system as she relied on family care when her children were young.
+- User 3: Male tech employee in his mid 20's. Lives in San Francisco. BA in math and computer science. No kids and unfamiliar with the state's child care system.  
 
 ### Research Goals & Questions
 
