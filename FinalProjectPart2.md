@@ -36,7 +36,7 @@ I used Shorthand to build a draft of my final project. I decided to create a dra
 - Title and brief description
 - Why we should all care about child care access: 1) strong link to economy; 2) reduces future public spending; 3) child care supports the workforce of tomorrow; 4) it impacts more families than you think
 - Why the current system isn't working: 1) child care cost as percent of income; 2) child care cost compared to college tuition; 3) more children need state subsidized child care; 4) but eligible children aren't getting access
-- What you can do to help (call to action): 1) explain latestly budget proposal; 2) explain budget process; 3) explain how to take action
+- What you can do to help (call to action): 1) explain latest budget proposal; 2) explain budget process; 3) explain how to take action
 
 *After the walk-through, I'll ask the following questions...*
 
