@@ -30,9 +30,15 @@ I used Shorthand to build a draft of my final project. I decided to create a dra
 
 ### Interview Script & Findings
 
-**Preface**: "I'm going to walk you through my wireframe for my final project for Telling Stories with Data. For context, the point of the project is to develop and present a narrative suitable for a subject audience for a selected topic that is clear, compelling and persuasive. The project should clearly construct and tell a story using various methods for explaining and presenting data."
+**Preface**: "I'm going to walk you through my draft for my final project for Telling Stories with Data. For context, the point of the project is to develop and present a narrative suitable for a subject audience for a selected topic that is clear, compelling and persuasive. The project should clearly construct and tell a story using various methods for explaining and presenting data."
 
-*Then I'll walk users through the wireframe. After the walk-through, I'll ask the following questions...*
+*Then I'll walk users through the draft in Shorthand, briefly explaining each key element of the story including:*
+- Title and brief description
+- Why we should all care about child care access: 1) strong link to economy; 2) reduces future public spending; 3) child care supports the workforce of tomorrow; 4) it impacts more families than you think
+- Why the current system isn't working: 1) child care cost as percent of income; 2) child care cost compared to college tuition; 3) more children need state subsidized child care; 4) but eligible children aren't getting access
+- What you can do to help (call to action): 1) explain latestly budget proposal; 2) explain budget process; 3) explain how to take action
+
+*After the walk-through, I'll ask the following questions...*
 
 | Questions | Findings  |
 |-----------|-----------|
