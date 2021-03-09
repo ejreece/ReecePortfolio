@@ -15,9 +15,9 @@ Click [here](https://preview.shorthand.com/HK5HW5KesAuuKXF7) to view my draft st
 **Approach to identifying representative individuals**: Asking how familiar they are with the child care system, especially state-subsidized child care. I will also ask how familiar they are with the role that child care plays within the Californian economy. I'll ask these questions before scheduling interviews, meaning they are not included in the interview script outlined below.  
 
 **General user descriptions:**
-- Female graduate student in her late 20's. Studying public policy at a public university. No kids and unfamiliar with the state's child care system. 
-- Female elementary school teacher in her mid 50's. Raised 3 children who are now adults, but is unfamiliar with the state's child care system as she relied on family care when her children were young.
-- Male undergraduate student in his early 20's. Studying math and computer science at a public unversity. No kids and unfamiliar with the state's child care system.  
+- Female law student in her mid 20's. Studying at a public university in the Bay Area. BA in Sociology. No kids and unfamiliar with the state's child care system. 
+- Female elementary school teacher in her mid 50's. Lives in Riverside County. Raised 3 children who are now adults, but is unfamiliar with the state's child care system as she relied on family care when her children were young.
+- Male tech employee in his mid 20's. Lives in San Francisco. BA in math and computer science. No kids and unfamiliar with the state's child care system.  
 
 ### Research Goals & Questions
 
