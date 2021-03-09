@@ -2,12 +2,10 @@
 Due March 10  
 [Return to main portfolio page](https://ejreece.github.io/ReecePortfolio/)
 
-## Wireframe/Storyboard
-I used Google Slides and Shorthand to create the wireframe of my project. I used Google Slides to visually represent the flow of the story I'd like to tell. As you can see in the image below, I included brief descriptions of the major elements of the story, placed next to the key data points or visualizations that I will use to illustrate that part of the story. I created this type of wireframe first because I wanted to explicitly describe the aspects of the story that might not be as explicit in the final version of my project (i.e., I might rely on images or visualizations to *imply* certain story elements in the final version). 
+## Draft Story in Shorthand
+I used Shorthand to build a draft of my final project. I decided to create a draft as opposed to a wireframe or storyboard because 1) my "outline" in the [final project part I](https://ejreece.github.io/ReecePortfolio/FinalProjectPart1.html) assignment really turned into a wireframe, so I didn't feel the need to repeat the process, and; 2) I wanted to have some practice with Shorthand before it comes time to finalize my story. The Shorthand page includes draft data visualizations of the critical elements of my story, as well as accompanying text for each visualization. I know now, without having gathered any user feedback, that I will need to make changes to my current visualizations. However, they are effective enough at communicating the critical elements of my story, and thus are sufficient for the purpose of this exercise. 
 
-![GoogleSlides](GoogleSlidesWireframe.png)
-
-After outlining the flow of the story in Google Slides, I created a more detailed wireframe in Shorthand (Click [here](https://preview.shorthand.com/HK5HW5KesAuuKXF7) to view). This is the version I shared with users during the feedback process. While I only showed users the Shorthand wireframe, I crosschecked their feedback with my Google Slides wireframe to make sure I was communicating the same core story elements in both versions.    
+Click [here](https://preview.shorthand.com/HK5HW5KesAuuKXF7) to view my draft story in Shorthand. This is the version I shared with users during the feedback process. 
 
 ## User Research & Interviews
 
@@ -17,9 +15,9 @@ After outlining the flow of the story in Google Slides, I created a more detaile
 **Approach to identifying representative individuals**: Asking how familiar they are with the child care system, especially state-subsidized child care. I will also ask how familiar they are with the role that child care plays within the Californian economy. I'll ask these questions before scheduling interviews, meaning they are not included in the interview script outlined below.  
 
 **General user descriptions:**
-- General description user 1: 
-- General description user 2:
-- General description user 3:
+- Female graduate student in her late 20's. Studying public policy at a public university. No kids and unfamiliar with the state's child care system. 
+- Female elementary school teacher in her mid 50's. Raised 3 children who are now adults, but is unfamiliar with the state's child care system as she relied on family care when her children were young.
+- Male undergraduate student in his early 20's. Studying math and computer science at a public unversity. No kids and unfamiliar with the state's child care system.  
 
 ### Research Goals & Questions
 
