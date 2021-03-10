@@ -65,15 +65,14 @@ Based on the findings outlined above, I plan to change the following elements fo
 </ul>  
 <li>The current system is not working</li>
 <ul>
-<li>I'm going to play around with other chart types for the visual showing the percent of children born into low income families. I'm thinking either a pie chart or a donut chart, as one user suggested. I'm a little worried the data won't be compelling enough with a pie chart alone, since the percent only increased by 4 points from 2016 to 2019. I might try to make it more compelling by supplementing the pie chart with an infographic showing how 4% translates in terms of number of children.</li>
+<li>I'm going to play around with other chart types for the visual showing the percent of children born into low income families. I'm leaning towards either a pie chart or a donut chart, as one user suggested. I'm a little worried the data won't be compelling enough with a pie chart alone, since the percent only increased by 4 points from 2016 to 2019. I might try to make it more compelling by supplementing the pie chart with an infographic showing how 4% translates in terms of number of children.</li>
 <li>I'm also going to try to make the map visualization larger if possible, and add the state abbreviations to the tool tip as one user suggested.</li>
-<li>Indented item</li>
 </ul>
 <li>Call to action</li>
 <ul>
-<li>Reduce text and simplify language. I might incorporate some conceptual visualizations about the budget process to lighten the amount of text.</li>
-<li>Increase size of the "find your rep" button if possible</li>
-<li>Emphasize the "click the button" text in a way that doesn't involve changing the text color to blue. Users stated that the blue text made them think they could click on the text itself in order to take action, as opposed to clicking the button lower on the page. I still want to emphasize this text so it's clear what a user should do to take action, but I'll probably use bold or italicized font instead of changing the text color.</li>
+<li>I'll reduce text and simplify language in this section. I might incorporate some conceptual visualizations about the budget process to lighten the amount of text.</li>
+<li>I also plan to increase size of the "find your rep" button if possible</li>
+<li>Lastly, I will emphasize the "click the button" text in a way that doesn't involve changing the text color to blue. Users stated that the blue text made them think they could click on the text itself in order to take action, as opposed to clicking the button lower on the page. I still want to emphasize this text so it's clear what a user should do to take action, but I'll probably use bold or italicized font instead of changing the text color.</li>
 </ul>
 <li>General improvements to all sections</li>
 <ul>
