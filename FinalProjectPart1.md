@@ -18,15 +18,6 @@ With this project, I hope to illuminate the important role that child care acces
  - What the state can do to improve the system.
  - Call to action: contact Governor Newsom and/or your local state representatives.
 
-## Initial sketches
-![sketch1](Project Sketches.png)
-![sketch2](Project Sketches (1).png)
-![sketch3](Project Sketches (2).png)
-![sketch4](Project Sketches (3).png)
-![sketch5](Project Sketches (4).png)
-![sketch6](Project Sketches (5).png)
-![sketch7](Project Sketches (6).png)
-
 ## The Data
 I will rely on several different datasets for my final project. In searching for sources, I worked backwards from the "so what?" to get to the "what?". For example, going into this project I knew it would be important to explain why everyone -- not just parents or child care employees -- should care about child care access. The "so what?" in this case is that child care access impacts our entire economy. I then brainstormed what data (the "what?") would be most helpful in illustrating the impact that child care plays in California's economy. I settled on a few quantitative and qualitative data points/sources for this part of the story. 
 
@@ -38,3 +29,12 @@ I collected all of the aforementioned data in [this Google sheet](https://docs.g
 
 ## Method & medium
 I plan to use Shorthand to incorporate the various data visualizations, diagrams and text I outlined in my initial sketches. I'll rely mostly on Tableau to create my data visualizations, although I might lean more on Flourish and Data Wrapper for the simple bar charts and line graphs. Tableau will be useful for the map of the U.S. depicting child care cost by state. I'll likely need to use powerpoint or Google drawings for more conceptual visualizations, such as the illustration showing the key role that child care plays in a state/local economy. 
+
+## Initial sketches
+![sketch1](Project Sketches.png)
+![sketch2](Project Sketches (1).png)
+![sketch3](Project Sketches (2).png)
+![sketch4](Project Sketches (3).png)
+![sketch5](Project Sketches (4).png)
+![sketch6](Project Sketches (5).png)
+![sketch7](Project Sketches (6).png)
