@@ -62,25 +62,21 @@ Based on the findings outlined above, I plan to change the following elements fo
 <li>I need to draw a clearer connection between a shrinking workforce and child care. I think I can accomplish this by reducing the text to a single, clear sentence explaining the connection, eliminating the other text that's currently included, and making the visualization bigger. The visualization will immediately follow the single sentence describing the connection between the future workforce and child care.</li>
 <li>I'll try to find a dataset or stat that clearly connects the wellbeing of the economy to the wellbeing of individuals. This could be  represented with a conceptual visualization showing one concept leading to the next, like " quality child care > better supported workforce > stronger economy > improved outcomes for all individuals in society ". I'm hoping a visual like that will make a stronger case for how child care access impacts people without children.</li>
 <li>There was a little confusion related to the infographic showing 2/3 of 6 y/o's need child care. The main point of the visual wasn't immediately obvious. I'll try to improve that graphic by switching what text goes where -- I'll move the header language to the gray box and vice versa. I'll also simplify the language that was originally in the gray box, so the main point (2/3 of kids need child care access) is clear.</li>
-</ul>
-</li>  
+</ul>  
 <li>The current system is not working</li>
 <ul>
 <li>I'm going to play around with other chart types for the visual showing the percent of children born into low income families. I'm thinking either a pie chart or a donut chart, as one user suggested. I'm a little worried the data won't be compelling enough with a pie chart alone, since the percent only increased by 4 points from 2016 to 2019. I might try to make it more compelling by supplementing the pie chart with an infographic showing how 4% translates in terms of number of children.</li>
 <li>I'm also going to try to make the map visualization larger if possible, and add the state abbreviations to the tool tip as one user suggested.</li>
 <li>Indented item</li>
 </ul>
-</li>
 <li>Call to action</li>
 <ul>
 <li>Reduce text and simplify language. I might incorporate some conceptual visualizations about the budget process to lighten the amount of text.</li>
 <li>Increase size of the "find your rep" button if possible</li>
 <li>Emphasize the "click the button" text in a way that doesn't involve changing the text color to blue. Users stated that the blue text made them think they could click on the text itself in order to take action, as opposed to clicking the button lower on the page. I still want to emphasize this text so it's clear what a user should do to take action, but I'll probably use bold or italicized font instead of changing the text color.</li>
 </ul>
-</li>
 <li>General improvements to all sections</li>
 <ul>
 <li>Reduce text and simplify language throughout the entire story. I'll try to use more familiar terms and phrases. I know there are a few online tools that help you take complex language and simplify it to a level that a third grader, for example, could understand.</li>
 <li>I've covered how child care relates to the economy and how expensive child care is. I'd like to also highlight why child care access is important for outcomes, and equity in outcomes. I'm not sure where that info best fits into the story. I'm leaning towards putting it right at the end of the "the current system is not working" section and before the call to action. I'm hoping a visual or graphic related to that topic will provoke a strong emotional response right before I ask the readers to contact their representatives.</li>
 </ul>
-</li>
