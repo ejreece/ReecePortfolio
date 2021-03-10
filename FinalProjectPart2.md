@@ -22,7 +22,7 @@ I used Shorthand to build a draft of my final project. I decided to create a dra
 - User 2: Female elementary school teacher in her mid 50's. Lives in Riverside County. Raised 3 children who are now adults, but is unfamiliar with the state's child care system as she relied on family care when her children were young.
 - User 3: Male tech employee in his mid 20's. Lives in San Francisco. BA in math and computer science. No kids and unfamiliar with the state's child care system.  
 
-### Research Goals & Questions
+### <u>Research Goals & Questions</u>
 
 | Goals     | Questions |
 |-----------|-----------|
@@ -31,7 +31,7 @@ I used Shorthand to build a draft of my final project. I decided to create a dra
 | Emotional Appeal | Did anything surprise you or cause a strong emotional response? Was the data compelling enough for you to move to action? Why or why not? |
 | Improvement | Is there any additional info you wanted to learn about this topic? What did you find confusing? What would you change? |
 
-### Interview Script & Findings
+### <u>Interview Script & Findings</u>
 
 **Preface**: "I'm going to walk you through my draft for my final project for Telling Stories with Data. For context, the point of the project is to develop and present a narrative suitable for a subject audience for a selected topic that is clear, compelling and persuasive. The project should clearly construct and tell a story using various methods for explaining and presenting data."
 
@@ -53,6 +53,6 @@ I used Shorthand to build a draft of my final project. I decided to create a dra
 | Is there any additional info you wanted to learn about this topic? | Nonumy deleniti atomorum ea est. Ne pri omittam aliquando, odio prompta eam ne. Facer indoctum maluisset eu pro, cum assum falli graece te. Ut his purto senserit, quo cu aperiam invidunt consulatu, brute oratio id eos. Has ei unum oblique, prima ponderum temporibus ut sed, eam dolorem alienum mentitum te. Nec ex oblique dolores indoctum, vel ea noster complectitur. Cu eum vivendum conceptam, mel te percipit imperdiet scribentur. Eum stet hinc ullum ea. |
 | What did you find confusing? What would you change? | Nonumy deleniti atomorum ea est. Ne pri omittam aliquando, odio prompta eam ne. Facer indoctum maluisset eu pro, cum assum falli graece te. Ut his purto senserit, quo cu aperiam invidunt consulatu, brute oratio id eos. Has ei unum oblique, prima ponderum temporibus ut sed, eam dolorem alienum mentitum te. Nec ex oblique dolores indoctum, vel ea noster complectitur. Cu eum vivendum conceptam, mel te percipit imperdiet scribentur. Eum stet hinc ullum ea. | 
 
-### Plan on Changing
+### <u>Plan on Changing</u>
 Based on the findings outlined above, I plan to change the following elements for the final version of my project:
 
