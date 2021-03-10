@@ -1,4 +1,4 @@
-# ReecePortfolio
+# Telling Stories with Data Portfolio - Spring 2021
 Data visualizations created from coursework at Carnegie Mellon University's Heinz College  
 
 ## Portfolio
