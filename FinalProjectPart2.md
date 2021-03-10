@@ -3,7 +3,7 @@ Due March 10
 - [Return to main portfolio page](https://ejreece.github.io/ReecePortfolio/)
 - [Final Project Part I](https://ejreece.github.io/ReecePortfolio/FinalProjectPart1.html)
 - [Final Project Part II](https://ejreece.github.io/ReecePortfolio/FinalProjectPart2.html)
-- Final Project Part III (coming soon!)
+- [Final Project Part III](https://ejreece.github.io/ReecePortfolio/FinalProjectPart3.html)
 
 ## Draft Story in Shorthand
 I used Shorthand to build a draft of my final project. I decided to create a draft as opposed to a wireframe or storyboard because 1) my "outline" in the [final project part I](https://ejreece.github.io/ReecePortfolio/FinalProjectPart1.html) assignment really turned into a wireframe, so I didn't feel the need to repeat the process, and; 2) I wanted to have some practice with Shorthand before it comes time to finalize my story. The Shorthand page includes draft data visualizations of the critical elements of my story, as well as accompanying text for each visualization. I know now, without having gathered any user feedback, that I will need to make changes to my current visualizations. However, they are effective enough at communicating the critical elements of my story, and thus are sufficient for the purpose of this exercise. 
