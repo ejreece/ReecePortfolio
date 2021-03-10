@@ -12,7 +12,7 @@ I used Shorthand to build a draft of my final project. I decided to create a dra
 
 ## User Research & Interviews
 
-### Audience
+### <u>Audience</u>
 **Target audience:** Californians unfamiliar with the economic and social impacts of poor child care access.   
 
 **Approach to identifying representative individuals**: Asking how familiar they are with the child care system, especially state-subsidized child care. I will also ask how familiar they are with the role that child care plays within the Californian economy. I'll ask these questions before scheduling interviews, meaning they are not included in the interview script outlined below.  
