@@ -16,7 +16,7 @@ These reflections touch on identified audience, narrowing the focus of the story
 Part III page to find the link to the final version of the project, or see the directory below. 
 
 ## Helpful links:
-- Click [here](https://docs.google.com/spreadsheets/d/1pzjf7OrJH5477HYisvjivKc-lohD58QGjXnWbxZHZu4/edit#gid=0) to learn more about the data sources I used for this project
+- Click [here](https://carnegiemellon.shorthandstories.com/child-care-access-in-california2/index.html) to view the final version of the project in Shorthand
 - Click [here](https://carnegiemellon.shorthandstories.com/child-care-access-in-california/index.html) to view the wireframe referenced in Part II
-- Click [here](https://carnegiemellon.shorthandstories.com/child-care-access-in-california2/index.html) to view the final version of the project (included in Part III)
+- Click [here](https://docs.google.com/spreadsheets/d/1pzjf7OrJH5477HYisvjivKc-lohD58QGjXnWbxZHZu4/edit#gid=0) to learn more about the data sources I used for this project
 - Click [here](https://ejreece.github.io/ReecePortfolio/) to return to my main portfolio page for this  course, which also includes links to assignments separate from the final project
