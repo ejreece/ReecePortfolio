@@ -19,3 +19,6 @@ In terms of design decisions, I used only one main color (light blue) as a way t
 
 ## What I Learned
 Prior to taking this course and completing the final project, I often treated data visualizations as a last-minute and therefore less important part of course projects at Heinz. That practice was due to my tendency for procrastination, but also reflected the emphasis our society places on data analysis skills over design and communication skills. This course, Telling Stories with Data, has shown me that my ability to produce data visuals that are easily interpretable and aesthetically pleasing is *as important as* my ability to program in R or Python. I might even argue that the former skillset is more important than the latter. After all, what's the point of being able to run the best data analysis in the world if you don't know how to clearly visualize your findings for decision makers?
+
+## Now that I've said what I need to say, I leave you with this picture of some adorable chubby babies (I dare you not to smile).
+
