@@ -1,5 +1,5 @@
 # Final Project Main Page
-Emily Reece | ejreece
+Emily Reece | ejreece  
 Due March 17  
 
 ## The final project for the *Telling Stories With Data* course was divided into three parts. 
