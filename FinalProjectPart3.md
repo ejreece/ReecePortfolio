@@ -1,6 +1,7 @@
 # Final Project Part III
 Due March 17  
 - [Return to main portfolio page](https://ejreece.github.io/ReecePortfolio/)
+- [Return to final project main page](https://ejreece.github.io/ReecePortfolio/FinalProjectPage.html)
 - [Final Project Part I](https://ejreece.github.io/ReecePortfolio/FinalProjectPart1.html)
 - [Final Project Part II](https://ejreece.github.io/ReecePortfolio/FinalProjectPart2.html)
 - [Final Project Part III](https://ejreece.github.io/ReecePortfolio/FinalProjectPart3.html)
