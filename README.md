@@ -4,6 +4,7 @@ Data visualizations created from coursework at Carnegie Mellon University's Hein
 ## Portfolio
 - [Homework Assignment #2: Visualizing Government Debt](https://ejreece.github.io/ReecePortfolio/dataviz2.html)
 - [Homework Assignment #3 & 4: Critique by Design](https://ejreece.github.io/ReecePortfolio/Assignment3and4.html)
+- [Final Project Main Page](https://ejreece.github.io/ReecePortfolio/FinalProjectPage.html)
 - [Final Project Part I](https://ejreece.github.io/ReecePortfolio/FinalProjectPart1.html)
 - [Final Project Part II](https://ejreece.github.io/ReecePortfolio/FinalProjectPart2.html)
 - [Final Project Part III](https://ejreece.github.io/ReecePortfolio/FinalProjectPart3.html)
